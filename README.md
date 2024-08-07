@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there, I am Martin Eliseo 👋
 
-- 🌱 I’m currently learning C programming on 42 Málaga | Fundación Telefónica
-- 👯 I’m looking to collaborate on cybersecurity. I’m also passionate about Artificial Inteligence, Machine Learning and Generative AI.
-- 📫 How to reach me: martirod@student.42malaga.com
+- 👀 I’m interested in cybersecurity.
+- 🌱 I’m currently learning C and Python.
+- 💞️ I’m looking to collaborate on big challenges.
+- 📫 How to reach me martirod@student.42malaga.com
+- ⚡ Fun fact: I have a cat named Cat.
