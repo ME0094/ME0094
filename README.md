@@ -35,7 +35,9 @@ Soy un apasionado de la tecnología con un interés especial en ciberseguridad e
 
 ## 🤝 Colaboración
 
+<p align="center">
 Siempre estoy abierto a colaborar en proyectos innovadores y desafiantes. Si tienes una idea interesante o buscas un compañero de equipo, ¡no dudes en contactarme!
+</p>
 
 ## 📫 Contáctame
 
