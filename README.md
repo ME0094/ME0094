@@ -15,7 +15,7 @@ Soy un apasionado de la tecnología con un interés especial en ciberseguridad e
 - 🔐 Explorando el fascinante mundo de la ciberseguridad
 - 🤖 Aprendiendo sobre IA y sus aplicaciones
 - 🌱 Creciendo como desarrollador día a día
-- 🐱 Compañero orgulloso de una gata llamada "Gata" (sí, soy así de creativo 😅)
+- 🐱 Compañero orgulloso de una gata llamada "Gata"
 
 ## 🛠️ Tecnologías y Herramientas
 
