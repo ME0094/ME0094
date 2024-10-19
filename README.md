@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Martin%20Eliseo&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
-# Hola, soy Martin Eliseo 👨‍💻
+<h1 align="center">Hola, soy Martin Eliseo 👨‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+42+Málaga;Entusiasta+de+la+Ciberseguridad;Aprendiz+de+IA;Amante+de+los+Desafíos&center=true&width=500&height=50">
 </p>
 
-## 🚀 Sobre mí
+<h2 align="center">🚀 Sobre mí</h2>
 
 Soy un apasionado de la tecnología con un interés especial en ciberseguridad e inteligencia artificial. Como estudiante en 42 Málaga, estoy constantemente expandiendo mis habilidades y buscando nuevos desafíos.
 
@@ -17,7 +17,7 @@ Soy un apasionado de la tecnología con un interés especial en ciberseguridad e
 - 🌱 Creciendo como desarrollador día a día
 - 🐱 Dueño orgulloso de un gato llamado "Gato" (sí, soy así de creativo 😅)
 
-## 🛠️ Tecnologías y Herramientas
+<h2 align="center">🛠️ Tecnologías y Herramientas</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -26,18 +26,20 @@ Soy un apasionado de la tecnología con un interés especial en ciberseguridad e
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-## 📊 Estadísticas de GitHub
+<h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGitHub&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuarioDeGitHub&theme=radical" alt="GitHub Streak">
 </div>
 
-## 🤝 Colaboración
+<h2 align="center">🤝 Colaboración</h2>
 
+<p align="center">
 Siempre estoy abierto a colaborar en proyectos innovadores y desafiantes. Si tienes una idea interesante o buscas un compañero de equipo, ¡no dudes en contactarme!
+</p>
 
-## 📫 Contáctame
+<h2 align="center">📫 Contáctame</h2>
 
 <p align="center">
   <a href="mailto:martirod@student.42malaga.com">
@@ -47,6 +49,3 @@ Siempre estoy abierto a colaborar en proyectos innovadores y desafiantes. Si tie
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/tu-usuario">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p
