@@ -29,8 +29,8 @@ Soy un apasionado de la tecnología con un interés especial en ciberseguridad e
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGitHub&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuarioDeGitHub&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=ME0094&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ME0094&theme=radical" alt="GitHub Streak">
 </div>
 
 ## 🤝 Colaboración
