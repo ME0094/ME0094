@@ -10,7 +10,9 @@
 
 ## 🚀 Sobre mí
 
-Soy un apasionado de la tecnología con un interés especial en ciberseguridad e inteligencia artificial. Como estudiante en 42 Málaga, estoy constantemente expandiendo mis habilidades y buscando nuevos desafíos.
+Soy un apasionado de la tecnología con un interés especial en ciberseguridad e inteligencia artificial.
+
+Como estudiante en 42 Málaga, estoy constantemente expandiendo mis habilidades y buscando nuevos desafíos.
 
 - 🔐 Explorando el fascinante mundo de la ciberseguridad
 - 🤖 Aprendiendo sobre IA y sus aplicaciones
@@ -37,7 +39,9 @@ Soy un apasionado de la tecnología con un interés especial en ciberseguridad e
 
 ## 🤝 Colaboración
 
-Siempre estoy abierto a colaborar en proyectos innovadores y desafiantes. Si tienes una idea interesante o buscas un compañero de equipo, ¡no dudes en contactarme!
+Siempre estoy abierto a colaborar en proyectos innovadores y desafiantes.
+
+Si tienes una idea interesante o buscas un compañero de equipo, ¡no dudes en contactarme!
 
 ## 📫 Contáctame
 
