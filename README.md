@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Martín%20Eliseo&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
-<h1 align="center">¡Hola, Mundo! Soy Martín Eliseo 👨‍💻</h1>
-
+<h1 align="center">¡Hola, Mundo! Soy <a href="https://www.linkedin.com/in/martin-eliseo/">Martín Eliseo</a> 👨‍💻</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+42+Málaga;Entusiasta+de+la+Ciberseguridad;Aprendiz+de+IA;Amante+de+los+Desafíos&center=true&width=500&height=50">
 </p>
