@@ -51,3 +51,6 @@ Si tienes una idea interesante o buscas un compañero de equipo, ¡no dudes en c
   <a href="https://www.linkedin.com/in/martin-eliseo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=ME0094&color=blueviolet" alt="Profile views counter" />
+</p>
