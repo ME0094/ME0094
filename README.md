@@ -48,8 +48,7 @@ Actualmente, estoy cursando el programa intensivo de desarrollo de software en [
 </p> -->
 
 <p align="center">
- <a href="URL_DE_LA_CERTIFICACION" target="_blank">
- </a>
+<a href="https://www.linkedin.com/in/martin-eliseo/">Martín Eliseo</a>
 </p>
 
 
