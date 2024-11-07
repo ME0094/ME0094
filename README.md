@@ -48,8 +48,8 @@ Actualmente, estoy cursando el programa intensivo de desarrollo de software en [
 </p> -->
 
 <p align="center">
- <a href="[URL_DE_LA_CERTIFICACION](https://www.coursera.org/account/accomplishments/specialization/DS8ZJKGDLR4H)" target="_blank">
-  <img alt="Google IT Automation with Python" src="[URL_DEL_BADGE](https://www.coursera.org/account/accomplishments/specialization/DS8ZJKGDLR4H)"/>
+ <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DS8ZJKGDLR4H" target="_blank">
+  <img alt="Google IT Automation with Python" src="https://www.coursera.org/account/accomplishments/specialization/certificate/DS8ZJKGDLR4H"/>
  </a>
 </p>
 
