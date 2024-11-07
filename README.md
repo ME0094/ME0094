@@ -29,12 +29,6 @@ Como estudiante en 42 Málaga, estoy constantemente expandiendo mis habilidades 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-## 📚 Actualmente Aprendiendo
-- 🖥️ Profundizando en arquitectura de sistemas y redes
-- 🔒 Explorando técnicas avanzadas de ciberseguridad
-- 🧠 Estudiando los fundamentos de la inteligencia artificial y el aprendizaje automático
-- 🐧 Mejorando mis habilidades en administración de sistemas Linux
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
