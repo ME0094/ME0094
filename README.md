@@ -48,10 +48,12 @@ Actualmente, estoy cursando el programa intensivo de desarrollo de software en [
 </p> -->
 
 <p align="center">
- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DS8ZJKGDLR4H" target="_blank">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="831159b0-f2dd-40dd-8a2d-e37648d708fe" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+ <a href="URL_DE_LA_CERTIFICACION" target="_blank">
+  <img alt="Nombre de la Certificación" src="URL_DEL_BADGE"/>
  </a>
 </p>
+
+
 
 ## 📚 Actualmente Aprendiendo
 - 🖥️ Profundizando en arquitectura de sistemas y redes
