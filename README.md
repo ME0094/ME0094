@@ -48,7 +48,7 @@ Actualmente, estoy cursando el programa intensivo de desarrollo de software en [
 </p> -->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/martin-eliseo/">Martín Eliseo</a>
+<a href="https://www.credly.com/badges/7464b343-06c0-438b-842f-938add6e62e9/public_url">Cybersecurity Fundamentals</a>
 </p>
 
 
