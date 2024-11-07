@@ -52,17 +52,8 @@ Si tienes una idea interesante o buscas un compañero de equipo, ¡no dudes en c
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=ME0094&color=blueviolet" alt="Profile views counter" />
-</p>
 <div align="center">
- <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="500" height="300" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
 
-## 🏆 Proyectos Destacados
-<div align="center">
-<!-- You can add your top repositories here -->
-<a href="https://github.com/ME0094/42_Cursus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ME0094&repo=42_Cursus&theme=radical" />
-</a>
-</div>
+<p align="center">⭐️ From [ME0094](https://github.com/ME0094)</p>
