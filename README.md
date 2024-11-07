@@ -49,7 +49,6 @@ Actualmente, estoy cursando el programa intensivo de desarrollo de software en [
 
 <p align="center">
  <a href="URL_DE_LA_CERTIFICACION" target="_blank">
-  <img alt="Nombre de la Certificación" src="URL_DEL_BADGE"/>
  </a>
 </p>
 
