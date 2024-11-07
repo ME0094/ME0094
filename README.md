@@ -29,52 +29,11 @@ Como estudiante en 42 Málaga, estoy constantemente expandiendo mis habilidades 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-
-
-## 🏅 Certificaciones y Logros
-<p align="center">
- <a href="https://www.42malaga.com/" target="_blank">
-  <img alt="42 Málaga" src="https://img.shields.io/badge/42%20Málaga-000000?style=for-the-badge&logo=42&logoColor=white"/>
- </a>
-</p>
-
-Actualmente, estoy cursando el programa intensivo de desarrollo de software en [42 Málaga](https://www.42malaga.com/). Este programa innovador se enfoca en el aprendizaje entre pares y proyectos prácticos, permitiéndome desarrollar habilidades técnicas y blandas esenciales para la industria tecnológica.
-
-<!-- Espacio para futuras certificaciones y logros -->
-<!-- <p align="center">
- <a href="URL_DE_LA_CERTIFICACION" target="_blank">
-  <img alt="Nombre de la Certificación" src="URL_DEL_BADGE"/>
- </a>
-</p> -->
-<p align="center">
-<a href="https://www.credly.com/badges/d1821895-c9fb-4a39-a609-448b05ec3660/public_url">IT Specialist - Cybersecurity</a>
-</p>
-
-<p align="center">
-<a href="https://www.credly.com/badges/831159b0-f2dd-40dd-8a2d-e37648d708fe/public_url">Certificado de Ciberseguridad de Google</a>
-</p>
-
-<p align="center">
-<a href="https://www.credly.com/badges/b3818e67-95ab-41df-808a-2ae3cc8615f9/public_url">Artificial Intelligence Fundamentals</a>
-</p>
-
-<p align="center">
-<a href="https://www.credly.com/badges/7464b343-06c0-438b-842f-938add6e62e9/public_url">Cybersecurity Fundamentals</a>
-</p>
-
-
-
 ## 📚 Actualmente Aprendiendo
 - 🖥️ Profundizando en arquitectura de sistemas y redes
 - 🔒 Explorando técnicas avanzadas de ciberseguridad
 - 🧠 Estudiando los fundamentos de la inteligencia artificial y el aprendizaje automático
 - 🐧 Mejorando mis habilidades en administración de sistemas Linux
-
-## 🌐 Idiomas
-<p align="center">
- <img alt="Español" src="https://img.shields.io/badge/Español-Nativo-green?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAA1SURBVHjaYmRgYPjPgBswQun/+BT8x6aGiYFEMGoAwnhGZDlGbIYwMQwDwAYQDQAAAP//AwAucgQSvobSUgAAAABJRU5ErkJggg=="/>
- <img alt="Inglés" src="https://img.shields.io/badge/Inglés-Avanzado-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAADTSURBVHjajJA9joMwEIX9e5ztBdBygnACSs5Cl5IDQA2ipmFpqCIhUdJEQrJ5FRjFP8lIVjzPp2+eZ0tEcI9t2z4AWAAgIgAAIQSYGcx8AYCllJBzBjOjlHJNsEXEj+fz+dlaG+u6vr4fDofFOTfu+/4yhgEzgZkxjiNCCIgxIqUEIoKUEpxzl/Q8zzDGQGv9N4CIlnEcP7XWS9u2UEqBiGCtRd/3ICJYawEAOWcMw4Cu6/6eMMb4UkpBKQVmRikFKSUwM0II0FrDOXcFfA0A8nRFlUhkjyYAAAAASUVORK5CYII="/>
-</p>
 
 ## 📊 Estadísticas de GitHub
 
