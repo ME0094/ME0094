@@ -44,7 +44,6 @@ Si tienes una idea interesante o buscas un compañero de equipo, ¡no dudes en c
 
 ## 📫 Contáctame
 
-<p align="center">
   <a href="mailto:martirod@student.42malaga.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
