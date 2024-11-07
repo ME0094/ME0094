@@ -49,7 +49,7 @@ Actualmente, estoy cursando el programa intensivo de desarrollo de software en [
 
 <p align="center">
  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DS8ZJKGDLR4H" target="_blank">
-  <img alt="Google IT Automation with Python" src="https://www.credly.com/badges/831159b0-f2dd-40dd-8a2d-e37648d708fe/public_url"/>
+  <img alt="Google IT Automation with Python" src="https://www.credly.com/badges/831159b0-f2dd-40dd-8a2d-e37648d708fe/"/>
  </a>
 </p>
 
