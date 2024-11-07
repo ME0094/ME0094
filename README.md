@@ -46,6 +46,17 @@ Actualmente, estoy cursando el programa intensivo de desarrollo de software en [
   <img alt="Nombre de la Certificación" src="URL_DEL_BADGE"/>
  </a>
 </p> -->
+<p align="center">
+<a href="https://www.credly.com/badges/d1821895-c9fb-4a39-a609-448b05ec3660/public_url">IT Specialist - Cybersecurity</a>
+</p>
+
+<p align="center">
+<a href="https://www.credly.com/badges/831159b0-f2dd-40dd-8a2d-e37648d708fe/public_url">Certificado de Ciberseguridad de Google</a>
+</p>
+
+<p align="center">
+<a href="https://www.credly.com/badges/b3818e67-95ab-41df-808a-2ae3cc8615f9/public_url">Artificial Intelligence Fundamentals</a>
+</p>
 
 <p align="center">
 <a href="https://www.credly.com/badges/7464b343-06c0-438b-842f-938add6e62e9/public_url">Cybersecurity Fundamentals</a>
