@@ -58,5 +58,5 @@ Si tienes una idea interesante o buscas un compañero de equipo, ¡no dudes en c
 </p>
 
 ![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3194015)
-![TryHackMe Badge](https://example.com/path/to/your/badge.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/martineliseo.png)
 
