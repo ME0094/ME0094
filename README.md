@@ -56,7 +56,3 @@ Si tienes una idea interesante o buscas un compañero de equipo, ¡no dudes en c
 <p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/martineliseo.png" alt="Your Image Badge" />
 </p>
-
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3194015)
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/martineliseo.png)
-
