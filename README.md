@@ -33,7 +33,6 @@ Como estudiante en 42 Málaga, estoy constantemente expandiendo mis habilidades 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ME0094&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ME0094&theme=radical" alt="GitHub Streak">
 </div>
 
 ## 🤝 Colaboración
