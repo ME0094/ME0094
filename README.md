@@ -7,14 +7,14 @@
   <a href="mailto:martineliseo@duck.com">
     <img src="https://img.shields.io/badge/Email-martineliseo%40duck.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/martin-eliseo">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://tryhackme.com/">
     <img src="https://img.shields.io/badge/TryHackMe-Profile-111927?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
   <a href="https://app.hackthebox.com/">
     <img src="https://img.shields.io/badge/HackTheBox-Profile-111927?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  </a>
+    <a href="https://www.linkedin.com/in/martin-eliseo">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
