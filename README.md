@@ -54,7 +54,7 @@ I secure systems by understanding the *logic*, *behavior*, and *code* behind mod
 | **Role / Focus** | **Organization** | **Description** | **Timeline** |
 |------------------|------------------|------------------|--------------|
 | Cyber Threat Analyst (CTI) | Telefónica Tech | Threat intelligence | Jan 2025 – Present |
-| Malware Intelligence Expert | Google-VirusTotal & Univ. Málaga | Behavioral analysis, advanced reversing,oC extraction | 2025 |
+| Malware Intelligence Expert | Google-VirusTotal & Univ. Málaga | Behavioral analysis, advanced reversing,IoC extraction | 2025 |
 | Software Dev Studies | Campus 42 | Low-level architecture, C/C++,memory management | 2024 |
 
 
