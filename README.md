@@ -35,10 +35,10 @@ I secure systems by understanding the *logic*, *behavior*, and *code* behind mod
 
 ### 🔐 Cybersecurity & Reverse Engineering
 <div align="left">
-  <img src="https://img.shields.io/badge/Reverse_Engineering-111927?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Malware_Intelligence-FF0000?style=for-the-badge&logo=virustotal&logoColor=white" />
   <img src="https://img.shields.io/badge/SecOps_%26_Incident_Response-005571?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-111927?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </div>
 
 ### 💻 Development, Systems & Automation
