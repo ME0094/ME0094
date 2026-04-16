@@ -47,8 +47,13 @@
 
 | Role | Organization | Focus | Timeline |
 |------|--------------|--------|----------|
-| **Cyber Threat Analyst** | Telefónica Tech | Threat intelligence, malware analysis, detection support | 2025–Present |
-| **Malware Intelligence Researcher** | Univ. Málaga / VirusTotal | Reverse engineering, behavioral analysis | 2025 |
+| **Cyber Threat Analyst** | Telefónica Tech | Cyber Threat Intelligence (CTI) | 2025–Present |
+
+# Technical & Educational Experience
+
+| Role | Organization | Focus | Timeline |
+|------|--------------|--------|----------|
+| **Malware Intelligence** | Univ. Málaga / VirusTotal | Reverse engineering, behavioral analysis | 2025 |
 | **Software Engineering (C/C++)** | 42 Málaga | Low‑level architecture, memory management | 2024 |
 
 ---
