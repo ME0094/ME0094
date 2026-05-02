@@ -77,7 +77,6 @@ UFW + fail2ban • auditd • shared memory restrictions • USB exfiltration pr
   <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-1A5276?style=for-the-badge&logo=ibm&logoColor=white"/>
 </div>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:2E86C1&height=100&section=footer" width="100%"/>
