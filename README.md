@@ -53,7 +53,7 @@
 
 | Role | Organization | Focus | Timeline |
 |------|--------------|--------|----------|
-| **Malware Intelligence** | Univ. Málaga / VirusTotal | Reverse engineering, behavioral analysis | 2025 |
+| **Malware Intelligence** | NICS Lab / VirusTotal | Reverse engineering, behavioral analysis | 2025 |
 | **Software Engineering (C/C++)** | 42 Málaga | Low‑level architecture, memory management | 2024 |
 
 ---
@@ -78,22 +78,6 @@ UFW + fail2ban • auditd • shared memory restrictions • USB exfiltration pr
 </div>
 
 ---
-
-# Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ME0094&show_icons=true&theme=default&hide_border=true&rank_icon=github&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ME0094&layout=compact&theme=default&hide_border=true"/>
-</div>
-
----
-
-# Contact
-
-<div align="center">
-  <a href="mailto:martineliseo@duck.com"><img src="https://img.shields.io/badge/Email-martineliseo%40duck.com-1A5276?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/martin-eliseo"><img src="https://img.shields.io/badge/LinkedIn-1A5276?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:2E86C1&height=100&section=footer" width="100%"/>
