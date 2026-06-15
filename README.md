@@ -4,9 +4,9 @@
 
 ## CTI Portfolio
 
-I specialize in cyber threat intelligence, reverse engineering, and Linux hardening. I help technical teams turn malware, incidents, and anomalous behavior into actionable intelligence for detection, containment, hardening, and automation.
+I specialize in cyber threat intelligence, reverse engineering, and Linux hardening. I support technical teams working on malware, incidents, and anomalous behavior by turning analysis into actionable intelligence for detection, containment, hardening, and automation.
 
-My focus is on problems that require deep technical analysis and operational judgment:
+My focus is on problems that benefit from deep technical analysis and operational judgment:
 
 - Analyzing binaries, malware, and suspicious artifacts.
 - Mapping TTPs and tactical attribution with MITRE ATT&CK.
@@ -16,7 +16,7 @@ My focus is on problems that require deep technical analysis and operational jud
 
 ## Specialization
 
-I work at the intersection of technical research and security operations.
+I work across technical research and security operations.
 
 ### Security and Analysis
 Ghidra • IDA • Radare2 • Binary Ninja • GDB • x64dbg • CAPE • Cuckoo • Volatility • checksec
@@ -46,14 +46,14 @@ Static analysis → Dynamic analysis → Memory analysis → IoCs → Attributio
 ## CTI Projects
 
 ### Ubuntu 22.04 LTS Hardening Framework
-Built a structured hardening baseline to support threat-informed defense across ten security domains.
+Developed a structured hardening baseline to support threat-informed defense across ten security domains.
 
 The project focused on reducing attack surface, preserving telemetry, and limiting common malware and persistence paths through:
 
 UFW and fail2ban • auditd • shared memory restrictions • USB exfiltration prevention
 
 ### Malware Analysis and TTP Mapping Notes
-Built repeatable triage notes for suspicious binaries and artifacts to extract behavior, identify persistence paths, and map activity to MITRE ATT&CK techniques.
+Developed repeatable triage notes for suspicious binaries and artifacts to extract behavior, identify persistence paths, and map activity to MITRE ATT&CK techniques.
 
 The goal was to convert reverse engineering findings into CTI outputs and practical detection opportunities.
 
@@ -61,7 +61,7 @@ The goal was to convert reverse engineering findings into CTI outputs and practi
 
 These certifications reinforce a CTI profile centered on analytical rigor, defensive operations, and automation.
 
-_Tools and methodology: MITRE ATT&CK • malware triage • reverse engineering • memory forensics • Linux hardening • Python automation_
+<p align="center"><em>Tools and methodology: MITRE ATT&CK • malware triage • reverse engineering • memory forensics • Linux hardening • Python automation</em></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-1A5276?style=for-the-badge&logo=isc2&logoColor=white"/>
@@ -74,9 +74,9 @@ _Tools and methodology: MITRE ATT&CK • malware triage • reverse engineering 
 
 ## What I Am Looking For
 
-I am looking for CTI-focused opportunities where I can contribute analysis, technical judgment, and execution in threat intelligence, malware analysis, hardening, or detection engineering.
+I am interested in CTI-focused opportunities where I can contribute analysis, technical judgment, and execution across threat intelligence, malware analysis, hardening, and detection engineering.
 
-I want to work with teams that need technical research translated into improvements in posture, process, and detection.
+I am especially interested in teams that turn technical research into practical improvements in posture, process, and detection.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:2E86C1&height=100&section=footer" width="100%"/>
