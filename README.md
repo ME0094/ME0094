@@ -1,13 +1,5 @@
 <h1 align="center">Martín Eliseo · ME0094</h1>
 
-<p align="center">
-  <b>Cyber Threat Analyst · Reverse Engineer · Linux Hardening</b><br>
-  Telefónica Tech &nbsp;·&nbsp; 42 Málaga
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/martin-eliseo"><img src="https://img.shields.io/badge/LinkedIn-martin--eliseo-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-
 
 </p>
 
