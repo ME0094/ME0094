@@ -1,83 +1,64 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:2E86C1&height=150&section=header&text=Mart%C3%ADn%20Eliseo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTI%20Portfolio%20%7C%20Threat%20Intelligence%20%7C%20Reverse%20Engineering&descAlignY=60&descSize=16" width="100%"/>
-</div>
+<h1 align="center">Martín Eliseo · ME0094</h1>
 
-## CTI Portfolio
+<p align="center">
+  <b>Cyber Threat Analyst · Reverse Engineer · Linux Hardening</b><br>
+  Telefónica Tech &nbsp;·&nbsp; 42 Málaga
+</p>
 
-I specialize in cyber threat intelligence, reverse engineering, and Linux hardening. I support technical teams working on malware, incidents, and anomalous behavior by turning analysis into actionable intelligence for detection, containment, hardening, and automation.
+<p align="center">
+  <a href="https://www.linkedin.com/in/martin-eliseo"><img src="https://img.shields.io/badge/LinkedIn-martin--eliseo-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://youtube.com/@MartinEliseoRR"><img src="https://img.shields.io/badge/YouTube-%40MartinEliseoRR-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:martineliseo@duck.com"><img src="https://img.shields.io/badge/Security%20Contact-martineliseo%40duck.com-yellow?style=flat-square&logo=protonmail&logoColor=white"/></a>
+</p>
 
-My focus is on problems that benefit from deep technical analysis and operational judgment:
+---
 
-- Analyzing binaries, malware, and suspicious artifacts.
-- Mapping TTPs and tactical attribution with MITRE ATT&CK.
-- Performing memory forensics and behavioral profiling.
-- Hardening Linux systems and secure architecture.
-- Automating CTI, triage, and response with Python and Bash.
+## What I do
 
-## Specialization
+I turn analysis into actionable intelligence — reverse engineering binaries and malware, mapping TTPs to MITRE ATT&CK, and converting findings into detection rules, hardening baselines, and automation.
 
-I work across technical research and security operations.
+---
 
-### Security and Analysis
-Ghidra • IDA • Radare2 • Binary Ninja • GDB • x64dbg • CAPE • Cuckoo • Volatility • checksec
+## Skills
 
-### Engineering and Automation
-C • C++ • Python • Bash • Linux • Docker • Git • Flask • Django
+**Reverse Engineering & Malware Analysis**
+`Ghidra` `IDA Pro` `Radare2` `Binary Ninja` `GDB` `Volatility` `CAPE` `Cuckoo`
 
-### Threat Modeling
-STRIDE • Cyber Kill Chain • MITRE ATT&CK
+**Programming**
+`Python` `C` `C++` `Bash`
 
-### Workflow
-Static analysis → Dynamic analysis → Memory analysis → IoCs → Attribution → Hardening
+**Frameworks & Standards**
+`MITRE ATT&CK` `Cyber Kill Chain` `STRIDE` `CIS Benchmarks`
 
-## Experience
+**Infrastructure**
+`Linux` `Docker` `Git` `UFW` `auditd` `fail2ban`
 
-| Role | Organization | Focus | Timeline |
-|---|---|---|---|
-| Cyber Threat Analyst | Telecommunications Company | CTI research, threat triage, TTP analysis, reporting | 2025–Present |
+---
 
-## Technical and Educational Background
+## Projects
 
-| Role | Organization | Focus | Timeline |
-|---|---|---|---|
-| Malware Intelligence Research | Research Lab | Reverse engineering, behavioral analysis, sample triage | 2025 |
-| Software Engineering (C/C++) | Technical Institute | Low-level architecture, memory management, systems programming | 2024 |
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [Ubuntu 22.04 LTS Hardening](https://github.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands) | Structured hardening baseline: firewall, audit logging, SSH hardening, USB exfiltration prevention | ![stars](https://img.shields.io/github/stars/ME0094/Ubuntu-22.04-LTS-Hardening-Commands?style=flat-square) |
 
-## CTI Projects
-
-### Ubuntu 22.04 LTS Hardening Framework
-Developed a structured hardening baseline to support threat-informed defense across ten security domains.
-
-The project focused on reducing attack surface, preserving telemetry, and limiting common malware and persistence paths through:
-
-UFW and fail2ban • auditd • shared memory restrictions • USB exfiltration prevention
-
-### Malware Analysis and TTP Mapping Notes
-Developed repeatable triage notes for suspicious binaries and artifacts to extract behavior, identify persistence paths, and map activity to MITRE ATT&CK techniques.
-
-The goal was to convert reverse engineering findings into CTI outputs and practical detection opportunities.
+---
 
 ## Certifications
 
-These certifications reinforce a CTI profile centered on analytical rigor, defensive operations, and automation.
+<p>
+  <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00A651?style=flat-square&logo=isc2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-IT%20Automation%20Python-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM-AI%20Fundamentals-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
+</p>
 
-<p align="center"><em>Tools and methodology: MITRE ATT&CK • malware triage • reverse engineering • memory forensics • Linux hardening • Python automation</em></p>
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-1A5276?style=for-the-badge&logo=isc2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-CyberOps_Associate-1A5276?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-Certified_Ethical_Hacker-1A5276?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-1A5276?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google-IT_Automation_Python-1A5276?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-1A5276?style=for-the-badge&logo=ibm&logoColor=white"/>
-</div>
-
-## What I Am Looking For
-
-I am interested in CTI-focused opportunities where I can contribute analysis, technical judgment, and execution across threat intelligence, malware analysis, hardening, and detection engineering.
-
-I am especially interested in teams that turn technical research into practical improvements in posture, process, and detection.
+## GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:2E86C1&height=100&section=footer" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ME0094&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ME0094&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
