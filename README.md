@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/martin-eliseo"><img src="https://img.shields.io/badge/LinkedIn-martin--eliseo-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
-  <a href="mailto:martineliseo@duck.com"><img src="https://img.shields.io/badge/Security%20Contact-martineliseo%40duck.com-yellow?style=flat-square&logo=protonmail&logoColor=white"/></a>
+
 </p>
 
 ---
