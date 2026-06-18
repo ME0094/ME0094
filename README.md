@@ -38,12 +38,10 @@ I turn analysis into actionable intelligence — reverse engineering binaries an
 ## Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00A651?style=flat-square&logo=isc2&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google-IT%20Automation%20Python-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IBM-AI%20Fundamentals-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
 </p>
 
 ---
