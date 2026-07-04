@@ -16,4 +16,4 @@ Desde septiembre de 2026 empiezo la carrera de Computer Science en la University
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/martin-eliseo/) · [GitHub](https://github.com/ME0094)
+[LinkedIn](https://www.linkedin.com/in/martin-eliseo/)
