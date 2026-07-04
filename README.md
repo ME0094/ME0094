@@ -1,7 +1,11 @@
 <h1 align="center">Martín Eliseo · ME0094</h1>
 
+<p align="center">CTI Analyst · Reverse Engineering · Malware Analysis · Threat Intelligence</p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/martin-eliseo/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/martin-eliseo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -49,10 +53,10 @@ Convierto análisis en inteligencia accionable: ingeniería inversa de binarios 
 ## Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google-IT%20Automation%20Python-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco CyberOps Associate"/>
+  <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Certified Ethical Hacker"/>
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity Certificate"/>
+  <img src="https://img.shields.io/badge/Google-IT%20Automation%20Python-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google IT Automation with Python Certificate"/>
 </p>
 
 ---
@@ -60,6 +64,6 @@ Convierto análisis en inteligencia accionable: ingeniería inversa de binarios 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ME0094&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ME0094&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ME0094&show_icons=true&theme=dark&hide_border=true" height="150" alt="ME0094's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ME0094&layout=compact&theme=dark&hide_border=true" height="150" alt="Top languages used by ME0094"/>
 </p>
