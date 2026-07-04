@@ -1,13 +1,24 @@
 <h1 align="center">Martín Eliseo · ME0094</h1>
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/martin-eliseo/">LinkedIn</a>
 </p>
 
 ---
 
-## What I do
+## About me
 
-I turn analysis into actionable intelligence — reverse engineering binaries and malware, mapping TTPs to MITRE ATT&CK, and converting findings into detection rules, hardening baselines, and automation.
+CTI Analyst en Telefónica Tech, enfocado en reverse engineering, malware analysis y threat intelligence. Desde septiembre de 2026 arranco la carrera de Computer Science en la University of the People (UoPeople).
+
+Convierto análisis en inteligencia accionable: ingeniería inversa de binarios y malware, mapeo de TTPs a MITRE ATT&CK, y traducción de hallazgos en reglas de detección, baselines de hardening y automatización.
+
+---
+
+## Current focus
+
+- **Estructuras de datos y algoritmos**: plan de 8 semanas combinando NeetCode, LeetCode y VisuAlgo.
+- **Práctica ofensiva/defensiva**: labs en TryHackMe y Hack The Box.
+- **Exploración de e-commerce**: probando Shopify como plataforma para un proyecto propio.
 
 ---
 
