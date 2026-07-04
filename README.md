@@ -4,7 +4,7 @@ CTI Analyst especializado en reverse engineering, malware analysis y threat inte
 
 ## Experiencia e impacto
 
-Trabajo como CTI Analyst en Telefónica Tech desde enero de 2025. Practico ciberseguridad ofensiva y defensiva en TryHackMe y Hack The Box, y aplico esas técnicas directamente a mi trabajo diario de threat intelligence: el puente entre el lab y la producción es donde más valor aporto.
+En Telefónica Tech ejerzo ese rol desde enero de 2025. Practico ciberseguridad ofensiva y defensiva en TryHackMe y Hack The Box, y aplico esas técnicas directamente a mi trabajo diario de threat intelligence: el puente entre el lab y la producción es donde más valor aporto.
 
 Soy autor y mantenedor de [Ubuntu 22.04 LTS Hardening](https://github.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands), un baseline de hardening estructurado — firewall, audit logging, SSH hardening y prevención de exfiltración por USB — publicado bajo licencia MIT. El proyecto tiene adopción externa real: 24 estrellas en GitHub de gente que lo usa.
 
@@ -16,4 +16,4 @@ Desde septiembre de 2026 empiezo la carrera de Computer Science en la University
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/martin-eliseo/) · [Ubuntu 22.04 LTS Hardening](https://github.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands)
+[LinkedIn](https://www.linkedin.com/in/martin-eliseo/) · [GitHub](https://github.com/ME0094)
