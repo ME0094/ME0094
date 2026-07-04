@@ -1,69 +1,19 @@
-<h1 align="center">Martín Eliseo · ME0094</h1>
+# Martín Eliseo
 
-<p align="center">CTI Analyst · Reverse Engineering · Malware Analysis · Threat Intelligence</p>
+CTI Analyst especializado en reverse engineering, malware analysis y threat intelligence. Convierto hallazgos técnicos en inteligencia accionable: mapeo de TTPs a MITRE ATT&CK, reglas de detección y baselines de hardening.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/martin-eliseo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+## Experiencia e impacto
 
----
+Trabajo como CTI Analyst en Telefónica Tech desde enero de 2025. Practico ciberseguridad ofensiva y defensiva en TryHackMe y Hack The Box, y aplico esas técnicas directamente a mi trabajo diario de threat intelligence: el puente entre el lab y la producción es donde más valor aporto.
 
-## About me
+Soy autor y mantenedor de [Ubuntu 22.04 LTS Hardening](https://github.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands), un baseline de hardening estructurado — firewall, audit logging, SSH hardening y prevención de exfiltración por USB — publicado bajo licencia MIT. El proyecto tiene adopción externa real: 24 estrellas en GitHub de gente que lo usa.
 
-CTI Analyst en Telefónica Tech, enfocado en reverse engineering, malware analysis y threat intelligence. Desde septiembre de 2026 arranco la carrera de Computer Science en la University of the People (UoPeople).
+## Formación
 
-Convierto análisis en inteligencia accionable: ingeniería inversa de binarios y malware, mapeo de TTPs a MITRE ATT&CK, y traducción de hallazgos en reglas de detección, baselines de hardening y automatización.
+Soy alumni activo de 42 Málaga (Fundación Telefónica), escuela de programación intensiva que sentó las bases técnicas de mi trabajo actual. Completé las certificaciones Cisco CyberOps Associate, Cisco Certified Ethical Hacker, Google Cybersecurity Certificate y Google IT Automation with Python.
 
----
+Desde septiembre de 2026 empiezo la carrera de Computer Science en la University of the People (UoPeople). Mientras tanto, ejecuto un plan propio de 8 semanas de estructuras de datos y algoritmos en Python (NeetCode, LeetCode, VisuAlgo) con ritmo diario — la misma disciplina que aplico a todo lo demás.
 
-## Current focus
+## Contacto
 
-- **Estructuras de datos y algoritmos**: plan de 8 semanas combinando NeetCode, LeetCode y VisuAlgo.
-- **Práctica ofensiva/defensiva**: labs en TryHackMe y Hack The Box.
-- **Exploración de e-commerce**: probando Shopify como plataforma para un proyecto propio.
-
----
-
-## Skills
-
-**Reverse Engineering & Malware Analysis**
-`Ghidra` `IDA Pro` `Radare2` `Binary Ninja` `GDB` `Volatility` `CAPE` `Cuckoo`
-
-**Programming**
-`Python` `C` `C++` `Bash`
-
-**Frameworks & Standards**
-`MITRE ATT&CK` `Cyber Kill Chain` `STRIDE` `CIS Benchmarks`
-
-**Infrastructure**
-`Linux` `Docker` `Git` `UFW` `auditd` `fail2ban`
-
----
-
-## Projects
-
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [Ubuntu 22.04 LTS Hardening](https://github.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands) | Structured hardening baseline: firewall, audit logging, SSH hardening, USB exfiltration prevention | ![stars](https://img.shields.io/github/stars/ME0094/Ubuntu-22.04-LTS-Hardening-Commands?style=flat-square) |
-
----
-
-## Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco CyberOps Associate"/>
-  <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Certified Ethical Hacker"/>
-  <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity Certificate"/>
-  <img src="https://img.shields.io/badge/Google-IT%20Automation%20Python-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google IT Automation with Python Certificate"/>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ME0094&show_icons=true&theme=dark&hide_border=true" height="150" alt="ME0094's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ME0094&layout=compact&theme=dark&hide_border=true" height="150" alt="Top languages used by ME0094"/>
-</p>
+[LinkedIn](https://www.linkedin.com/in/martin-eliseo/) · [Ubuntu 22.04 LTS Hardening](https://github.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands)
