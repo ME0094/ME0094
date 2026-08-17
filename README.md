@@ -23,7 +23,6 @@ An evidence-based learning portfolio covering memory management, algorithms, Uni
 ## Experience and education
 
 - **Cyber Threat Analyst — Telefónica Tech** · Cyber Threat Intelligence · 2025–present
-- **Software Engineering — 42 Málaga** · C/C++, systems programming, and peer-based learning · 2024–present
 - **Malware Intelligence — NICS Lab / VirusTotal** · Reverse engineering and behavioral analysis · 2025
 
 ## Engineering toolkit
