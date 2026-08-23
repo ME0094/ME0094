@@ -2,15 +2,16 @@
 
 **Cyber Threat Analyst building malware-analysis, detection-engineering, and secure-systems tooling.**
 
-I work at the intersection of threat intelligence and hands-on engineering: turning adversary behavior into structured analysis, defensive context, and practical security controls. My background in low-level C/C++ development at 42 Málaga informs how I investigate systems, memory, and software behavior.
-
-## What I work on
+I work at the intersection of threat intelligence and hands-on engineering: turning adversary behavior into structured analysis, defensive context, and practical security controls.
 
 | Threat intelligence | Malware and reverse engineering | Secure systems engineering |
 | --- | --- | --- |
 | TTP mapping, behavioral profiling, and incident-response support | Static, dynamic, and memory analysis; IoC extraction; low-level debugging | Linux hardening, security automation, reproducible validation, and defensive tooling |
 
 ## Featured work
+
+### [YaraLLM](https://github.com/ME0094/YaraLLM)
+Free, local AI-assisted YARA rule generator. Combines a local LLM (Ollama, or Groq as a free-tier fallback), offline PE static analysis (pefile), automatic syntax validation (yara-python with a retry loop), and optional OpenCTI enrichment/publication. Originated from a submission to the Cátedra Ciberseguridad UMA · Google · VirusTotal 2026 Award.
 
 ### [Ubuntu 22.04 LTS Hardening](https://github.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands)
 
