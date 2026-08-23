@@ -4,7 +4,7 @@
 
 > Translating adversary tradecraft into actionable defensive controls.
 
-Currently working in Cyber Threat Intelligence (CTI) at Telefónica Tech. My work focuses on bridging the gap between low-level malware execution and high-level detection engineering. 
+Currently working in Cyber Threat Intelligence (CTI) at Telefónica Tech. I focus on connecting the low-level mechanics of malware execution with the high-level discipline of detection engineering — from binary behavior to deployable detection logic.
 
 ### /// CORE DOMAINS
 
