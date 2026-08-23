@@ -1,43 +1,29 @@
-# Martín Eliseo
+# 🛡️ Hello, I'm Martín Eliseo 
 
-**Cyber Threat Analyst building malware-analysis, detection-engineering, and secure-systems tooling.**
+**Cyber Threat Analyst | Malware Analysis | Detection Engineering | Secure Systems**
 
-I work at the intersection of threat intelligence and hands-on engineering: turning adversary behavior into structured analysis, defensive context, and practical security controls.
+I am a cybersecurity professional specializing in Cyber Threat Intelligence (CTI) and low-level systems engineering. Currently working at **Telefónica Tech**, my focus is on analyzing malware, profiling adversary behaviors (MITRE ATT&CK), and developing automated defensive capabilities to protect critical infrastructure.
 
-| Threat intelligence | Malware and reverse engineering | Secure systems engineering |
-| --- | --- | --- |
-| TTP mapping, behavioral profiling, and incident-response support | Static, dynamic, and memory analysis; IoC extraction; low-level debugging | Linux hardening, security automation, reproducible validation, and defensive tooling |
+### 🛠️ Core Competencies
+*   **Threat Intelligence & Malware Analysis:** Static/Dynamic Analysis, Reverse Engineering, IoC Extraction, YARA Rule Development.
+*   **Detection Engineering:** Turning adversary behavior into actionable, automated defensive controls.
+*   **Low-Level & Systems:** C/C++, Memory Management, Linux Internals, Systems Hardening.
+*   **Automation:** Python, Bash, API Integrations, LLM-assisted tools.
 
-## Featured work
+### 💻 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-### [YaraLLM](https://github.com/ME0094/YaraLLM)
-Free, local AI-assisted YARA rule generator. Combines a local LLM (Ollama, or Groq as a free-tier fallback), offline PE static analysis (pefile), automatic syntax validation (yara-python with a retry loop), and optional OpenCTI enrichment/publication. Originated from a submission to the Cátedra Ciberseguridad UMA · Google · VirusTotal 2026 Award.
+### 🏆 Featured Projects
+*   **[YaraLLM](https://github.com/ME0094/YaraLLM)**: Free, local AI-assisted YARA rule generator (Ollama + VirusTotal + OpenCTI). *Submitted to the Cátedra Ciberseguridad UMA · Google · VirusTotal 2026 Award.*
+*   **[Ubuntu Hardening](https://github.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands)**: Review-first hardening baseline for Ubuntu 22.04 LTS hosts.
+*   **[42](https://github.com/ME0094/42)**: Advanced systems programming portfolio from the 42 Network.
 
-### [Ubuntu 22.04 LTS Hardening](https://github.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands)
-
-A review-first hardening baseline for Ubuntu hosts. It combines an idempotent Bash implementation with a documented threat model, dry-run support, rollback guidance, and automated validation.
-
-### [42: C and systems programming](https://github.com/ME0094/42)
-
-An evidence-based learning portfolio covering memory management, algorithms, Unix interfaces, build tooling, and testing in C, with an explicit academic-integrity policy.
-
-## Experience and education
-
-- **Cyber Threat Analyst — Telefónica Tech** · Cyber Threat Intelligence · 2025–present
-- **Malware Intelligence — NICS Lab / VirusTotal** · Reverse engineering and behavioral analysis · 2025
-
-## Engineering toolkit
-
-`C` · `C++` · `Python` · `Bash` · `Linux` · `Docker` · `Git`
-
-`Ghidra` · `IDA` · `Radare2` · `GDB` · `x64dbg` · `Volatility` · `MITRE ATT&CK`
-
-## Current focus
-
-- Building repeatable malware-analysis and detection workflows.
-- Deepening systems programming, memory safety, and secure architecture.
-- Applying automation and machine learning where they improve defensive analysis.
-
-## Contact
-
-The best way to reach me is [LinkedIn](https://www.linkedin.com/in/martin-eliseo/). I also publish technical material on [YouTube](https://www.youtube.com/@MartinEliseoRR).
+### 📫 Let's Connect
+*   💼 **LinkedIn:** [linkedin.com/in/martin-eliseo](https://www.linkedin.com/in/martin-eliseo)
+*   📺 **YouTube:** [@MartinEliseoRR](https://www.youtube.com/@MartinEliseoRR)
