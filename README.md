@@ -1,29 +1,35 @@
-# 🛡️ Hello, I'm Martín Eliseo 
+# Martín Eliseo (@ME0094)
 
-**Cyber Threat Analyst | Malware Analysis | Detection Engineering | Secure Systems**
+**Cyber Threat Analyst | Malware Intelligence | Systems Engineering**
 
-I am a cybersecurity professional specializing in Cyber Threat Intelligence (CTI) and low-level systems engineering. Currently working at **Telefónica Tech**, my focus is on analyzing malware, profiling adversary behaviors (MITRE ATT&CK), and developing automated defensive capabilities to protect critical infrastructure.
+> Translating adversary tradecraft into actionable defensive controls.
 
-### 🛠️ Core Competencies
-*   **Threat Intelligence & Malware Analysis:** Static/Dynamic Analysis, Reverse Engineering, IoC Extraction, YARA Rule Development.
-*   **Detection Engineering:** Turning adversary behavior into actionable, automated defensive controls.
-*   **Low-Level & Systems:** C/C++, Memory Management, Linux Internals, Systems Hardening.
-*   **Automation:** Python, Bash, API Integrations, LLM-assisted tools.
+Currently working in Cyber Threat Intelligence (CTI) at Telefónica Tech. My work focuses on bridging the gap between low-level malware execution and high-level detection engineering. 
 
-### 💻 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+### /// CORE DOMAINS
 
-### 🏆 Featured Projects
-*   **[YaraLLM](https://github.com/ME0094/YaraLLM)**: Free, local AI-assisted YARA rule generator (Ollama + VirusTotal + OpenCTI). *Submitted to the Cátedra Ciberseguridad UMA · Google · VirusTotal 2026 Award.*
-*   **[Ubuntu Hardening](https://github.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands)**: Review-first hardening baseline for Ubuntu 22.04 LTS hosts.
-*   **[42](https://github.com/ME0094/42)**: Advanced systems programming portfolio from the 42 Network.
+*   **Malware Intelligence & Reverse Engineering:** Static and dynamic analysis of PE/ELF binaries, IOC extraction, and behavioral profiling using Ghidra, GDB, and x64dbg.
+*   **Detection Engineering:** Writing high-fidelity YARA and Sigma rules mapped to the MITRE ATT&CK framework.
+*   **Low-Level Systems:** Strong foundation in C/C++, memory management, OS internals, and Unix/Linux interfaces (42 Network core curriculum).
+*   **CTI Automation:** Developing offline, OPSEC-safe Python tooling and integrating LLMs into threat analysis workflows (OpenCTI, VirusTotal APIs).
 
-### 📫 Let's Connect
-*   💼 **LinkedIn:** [linkedin.com/in/martin-eliseo](https://www.linkedin.com/in/martin-eliseo)
-*   📺 **YouTube:** [@MartinEliseoRR](https://www.youtube.com/@MartinEliseoRR)
+### /// FEATURED RESEARCH & TOOLING
+
+**[YaraLLM](https://github.com/ME0094/YaraLLM)**
+*Offline, AI-assisted YARA rule generation framework.*
+Designed to solve CTI bottlenecks by automating YARA rule drafting using local LLMs (Ollama) and static analysis (`pefile`). Ensures strict OPSEC by keeping malware data completely offline. 
+*Submitted to the Cátedra Ciberseguridad UMA · Google · VirusTotal 2026 Award.*
+
+**[Ubuntu-22.04-LTS-Hardening](https://github.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands)**
+*Review-first baseline hardening.*
+Idempotent Bash scripting and documented threat models for securing Ubuntu hosts, emphasizing dry-runs and rollback capabilities.
+
+**[42-Systems-Programming](https://github.com/ME0094/42)**
+*Advanced C / Unix portfolio.*
+Implementation of standard C library functions, memory allocators, and Unix system calls built from scratch as part of the 42 Network rigorous curriculum.
+
+### /// SECURE COMMUNICATIONS
+
+For vulnerability disclosures or professional inquiries:
+*   **Network:** [LinkedIn](https://www.linkedin.com/in/martin-eliseo)
+*   **Media:** [YouTube / @MartinEliseoRR](https://www.youtube.com/@MartinEliseoRR)
