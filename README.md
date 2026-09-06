@@ -29,8 +29,8 @@ Idempotent Bash scripting and documented threat models for securing Ubuntu hosts
 Implementation of standard C library functions, memory allocators, and Unix system calls built from scratch as part of the 42 Network rigorous curriculum.
 
 **[INE-Cybersecurity-Certifications-Guide](https://github.com/ME0094/INE-Cybersecurity-Certifications-Guide)**
-*Complete English study guides for INE Security certifications.*
-Eleven self-contained modules spanning fundamentals, red team, blue team, and emerging technologies (eJPT → eIAMA), each covering methodology phases, tool references, hands-on lab guides, and quick-reference cheatsheets — written entirely in English.
+*Comprehensive study guides for INE Security certifications.*
+Eleven self-contained modules covering core foundations, offensive security, defensive operations, and emerging technologies (from eJPT through eIAMA), including methodologies, tool overviews, practical lab walkthroughs, and concise quick-reference cheat sheets.
 
 ### /// SECURE COMMUNICATIONS
 
