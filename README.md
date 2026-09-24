@@ -11,14 +11,9 @@ Currently working in Cyber Threat Intelligence (CTI) at Telefónica Tech. I focu
 *   **Malware Intelligence & Reverse Engineering:** Static and dynamic analysis of PE/ELF binaries, IOC extraction, and behavioral profiling using Ghidra, GDB, and x64dbg.
 *   **Detection Engineering:** Writing high-fidelity YARA and Sigma rules mapped to the MITRE ATT&CK framework.
 *   **Low-Level Systems:** Strong foundation in C/C++, memory management, OS internals, and Unix/Linux interfaces (42 Network core curriculum).
-*   **CTI Automation:** Developing offline, OPSEC-safe Python tooling and integrating LLMs into threat analysis workflows (OpenCTI, VirusTotal APIs).
+*   **CTI Automation:** Developing Python tooling for threat analysis and integrating CTI platforms and enrichment APIs.
 
 ### /// FEATURED RESEARCH & TOOLING
-
-**[YaraLLM](https://github.com/ME0094/YaraLLM)**
-*Offline, AI-assisted YARA rule generation framework.*
-Designed to solve CTI bottlenecks by automating YARA rule drafting using local LLMs (Ollama) and static analysis (`pefile`). Ensures strict OPSEC by keeping malware data completely offline. 
-*Submitted to the Cátedra Ciberseguridad UMA · Google · VirusTotal 2026 Award.*
 
 **[Ubuntu-22.04-LTS-Hardening](https://github.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands)**
 *Review-first baseline hardening.*
