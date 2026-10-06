@@ -15,6 +15,10 @@ Currently working in Cyber Threat Intelligence (CTI) at Telefónica Tech. I focu
 
 ### /// FEATURED RESEARCH & TOOLING
 
+**[YaraLLM](https://github.com/ME0094/YaraLLM)**
+*Review-first baseline hardening.*
+Idempotent Bash scripting and documented threat models for securing Ubuntu hosts, emphasizing dry-runs and rollback capabilities.
+
 **[Ubuntu-22.04-LTS-Hardening](https://github.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands)**
 *Review-first baseline hardening.*
 Idempotent Bash scripting and documented threat models for securing Ubuntu hosts, emphasizing dry-runs and rollback capabilities.
