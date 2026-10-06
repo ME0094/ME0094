@@ -16,8 +16,8 @@ Currently working in Cyber Threat Intelligence (CTI) at Telefónica Tech. I focu
 ### /// FEATURED RESEARCH & TOOLING
 
 **[YaraLLM](https://github.com/ME0094/YaraLLM)**
-*Review-first baseline hardening.*
-Idempotent Bash scripting and documented threat models for securing Ubuntu hosts, emphasizing dry-runs and rollback capabilities.
+*Local, privacy-first AI-assisted YARA rule generator.*
+Turns natural-language descriptions, IOCs, and binary strings into syntactically validated YARA rules — fully offline via Ollama, with optional VirusTotal and OpenCTI enrichment.
 
 **[Ubuntu-22.04-LTS-Hardening](https://github.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands)**
 *Review-first baseline hardening.*
