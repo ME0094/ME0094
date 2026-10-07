@@ -1,31 +1,30 @@
 # Martín Eliseo (@ME0094)
 
-**Cyber Threat Analyst | Malware Intelligence | Systems Engineering**
+**Cyber Threat Intelligence Analyst**
 
-> Translating adversary tradecraft into actionable defensive controls.
+> Turning adversary tradecraft into intelligence that drives defensive decisions.
 
-Currently working in Cyber Threat Intelligence (CTI) at Telefónica Tech. I focus on connecting the low-level mechanics of malware execution with the high-level discipline of detection engineering — from binary behavior to deployable detection logic.
+I work in Cyber Threat Intelligence (CTI) at Telefónica Tech, across the full intelligence cycle: requirements, collection, analysis, attribution and dissemination. My focus is the bridge from adversary tradecraft to the decisions it should change — detection, hunting and response.
 
 ### /// CORE DOMAINS
 
-*   **Malware Intelligence & Reverse Engineering:** Static and dynamic analysis of PE/ELF binaries, IOC extraction, and behavioral profiling using Ghidra, GDB, and x64dbg.
-*   **Detection Engineering:** Writing high-fidelity YARA and Sigma rules mapped to the MITRE ATT&CK framework.
-*   **Low-Level Systems:** Strong foundation in C/C++, memory management, OS internals, and Unix/Linux interfaces (42 Network core curriculum).
-*   **CTI Automation:** Developing Python tooling for threat analysis and integrating CTI platforms and enrichment APIs.
+*   **Threat Intelligence Analysis:** Structured analytic techniques, TTP analysis, indicators of compromise and their limits, and confidence and estimative language applied per claim.
+*   **Threat Actor Profiling & Attribution:** Tracking intrusion sets, reconciling vendor aliases, and attributing through infrastructure and malware — without overstating what the evidence supports.
+*   **Malware Intelligence:** Static and dynamic analysis of PE/ELF binaries, IOC extraction, and behavioural profiling with Ghidra, GDB and x64dbg.
+*   **CTI Automation:** Python tooling integrating CTI platforms and enrichment APIs (OpenCTI, STIX, VirusTotal), and translating intelligence into deployable detection logic.
 
-### /// FEATURED RESEARCH & TOOLING
+### /// HOW I WORK
 
-**[Ubuntu-22.04-LTS-Hardening](https://github.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands)**
-*Review-first baseline hardening.*
-Idempotent Bash scripting and documented threat models for securing Ubuntu hosts, emphasizing dry-runs and rollback capabilities.
+*   Every claim carries a confidence level, applied per claim — not per section.
+*   Open sources only, cited and graded; where vendors disagree, I say so.
+*   Intelligence is finished only when it changes a decision.
 
-**[42-Systems-Programming](https://github.com/ME0094/42)**
-*Advanced C / Unix portfolio.*
-Implementation of standard C library functions, memory allocators, and Unix system calls built from scratch as part of the 42 Network rigorous curriculum.
+### /// SELECTED WORK
 
-**[INE-Cybersecurity-Certifications-Guide](https://github.com/ME0094/INE-Cybersecurity-Certifications-Guide)**
-*Comprehensive study guides for INE Security certifications.*
-Eleven self-contained modules covering core foundations, offensive security, defensive operations, and emerging technologies (from eJPT through eIAMA), including methodologies, tool overviews, practical lab walkthroughs, and concise quick-reference cheat sheets.
+My working repositories are private by default. I am glad to walk through them on request:
+
+*   **Actor profiling** — open-source assessments built claim by claim, with source grading and explicit confidence.
+*   **CTI tooling** — a local, privacy-first YARA rule generator with OpenCTI/STIX and VirusTotal enrichment.
 
 ### /// SECURE COMMUNICATIONS
 
