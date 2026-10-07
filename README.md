@@ -1,6 +1,6 @@
 # Martín Eliseo (@ME0094)
 
-**Cyber Threat Intelligence Analyst**
+**Cyber Threat Intelligence**
 
 > Turning adversary tradecraft into intelligence that drives defensive decisions.
 
