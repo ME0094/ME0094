@@ -35,4 +35,3 @@ Eleven self-contained modules covering core foundations, offensive security, def
 
 For vulnerability disclosures or professional inquiries:
 *   **Network:** [LinkedIn](https://www.linkedin.com/in/martin-eliseo)
-*   **Media:** [YouTube / @MartinEliseoRR](https://www.youtube.com/@MartinEliseoRR)
