@@ -27,7 +27,7 @@ I work in cyber threat intelligence (CTI) at Telefónica Tech, across the full i
 
 ### /// SELECTED WORK
 
-*   **CTI writing** — open-source, confidence-graded actor profiles and structured assessments at **[me0094.github.io](https://me0094.github.io)**: [Volt Typhoon](https://me0094.github.io/volt-typhoon-actor-profile/), [Scattered Spider](https://me0094.github.io/scattered-spider-actor-profile/), [VOLTZITE vs Volt Typhoon — ACH](https://me0094.github.io/ach-voltzite-volt-typhoon/).
+*   **CTI writing** — open-source, confidence-graded actor profiles and structured assessments at **[my blog](https://me0094.github.io)**: [Volt Typhoon](https://me0094.github.io/volt-typhoon-actor-profile/), [Scattered Spider](https://me0094.github.io/scattered-spider-actor-profile/), [VOLTZITE vs Volt Typhoon — ACH](https://me0094.github.io/ach-voltzite-volt-typhoon/).
 *   **Method & requirements** — how the analysis is graded, reviewed and corrected (**[method](https://me0094.github.io/method/)**) and the standing requirements it answers (**[requirements](https://me0094.github.io/requirements/)**).
 *   **CTI knowledge corpus** — a working corpus on the intelligence cycle, tradecraft standards and sharing formats *(currently private)*.
 
