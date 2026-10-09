@@ -1,36 +1,32 @@
 # Martín Eliseo (@ME0094)
 
-**Cyber Threat Intelligence**
+**Cyber Threat Intelligence — turning adversary tradecraft into decisions that hold up.**
 
-> Turning adversary tradecraft into intelligence that drives defensive decisions.
+I work across the intelligence cycle, with the focus on the last mile: a judgement is
+finished only when it changes a decision — and when someone can see *why*.
 
-I work in cyber threat intelligence (CTI) at Telefónica Tech, across the full intelligence cycle — direction, collection, analysis, production and dissemination — with the focus on the last mile: adversary tradecraft turned into the judgement that drives a defensive decision.
+## What I bring
 
-### /// CORE DOMAINS
+- **Analytical judgment under uncertainty** — ACH, two-axis grading (confidence ≠ probability,
+  per claim), and stating what would break a judgement.
+- **Intelligence engineering** — I don't just use platforms; I encode the method into tooling
+  (OpenCTI/MISP/STIX 2.1, provenance, evaluation with external truth).
+- **Sharing that survives scrutiny** — TLP 2.0 and STIX 2.1 as gates, not afterthoughts.
 
-*   **Intelligence analysis** — structured analytic techniques and hypothesis testing, TTP analysis, and indicators of compromise read for what they cannot tell you.
-*   **Threat actor profiling & attribution** — intrusion-set tracking, vendor-alias reconciliation, and infrastructure- and malware-based linkage, without overstating what the evidence supports.
-*   **CTI engineering & sharing** — Python tooling and enrichment APIs (OpenCTI, STIX, VirusTotal) that keep provenance, and standards-based sharing (STIX/TAXII, TLP, MISP).
+## Featured work
 
-### /// TOOLKIT
+**Writing — graded, open-source analysis** (handling, version and review trigger on every product):
 
-*   **Platforms:** OpenCTI · MISP · VirusTotal · MITRE ATT&CK Navigator
-*   **Frameworks:** Diamond Model · Cyber Kill Chain · MITRE ATT&CK · CAPEC · Pyramid of Pain · F3EAD · Detection Maturity Level
-*   **Standards:** STIX/TAXII · TLP · NIST SP 800-150 · VERIS · MAEC
+- [Volt Typhoon — actor profile](https://me0094.github.io/volt-typhoon-actor-profile/)
+- [Scattered Spider — actor profile](https://me0094.github.io/scattered-spider-actor-profile/)
+- [Is VOLTZITE the same actor as Volt Typhoon? — an ACH](https://me0094.github.io/ach-voltzite-volt-typhoon/)
+- [From source to a defensible judgement — the method behind the tooling](https://me0094.github.io/from-source-to-a-defensible-judgement/)
+- Method and corrections: [me0094.github.io/method](https://me0094.github.io/method/)
 
-### /// HOW I WORK
+## How I work
 
-*   Judgements carry **confidence and probability as separate axes**, applied per claim — not per section.
-*   Sources are cited and graded; where vendors disagree, I say so; where the evidence stops, I state the gap.
-*   **TTP-level over actor-level** — cryptonyms and campaign names drift; adversary behaviour endures.
-*   Intelligence is finished only when it changes a decision.
+- Confidence and probability are separate axes, per claim.
+- Sources cited and graded; where the evidence stops, I say so.
+- TTP-level over actor-level. Cryptonyms drift; behaviour endures.
 
-### /// SELECTED WORK
-
-*   **CTI writing** — open-source, confidence-graded actor profiles and structured assessments at **[my blog](https://me0094.github.io)**: [Volt Typhoon](https://me0094.github.io/volt-typhoon-actor-profile/), [Scattered Spider](https://me0094.github.io/scattered-spider-actor-profile/), [VOLTZITE vs Volt Typhoon — ACH](https://me0094.github.io/ach-voltzite-volt-typhoon/).
-*   **Method & requirements** — how the analysis is graded, reviewed and corrected (**[method](https://me0094.github.io/method/)**) and the standing requirements it answers (**[requirements](https://me0094.github.io/requirements/)**).
-*   **CTI knowledge corpus** — a working corpus on the intelligence cycle, tradecraft standards and sharing formats *(currently private)*.
-
-### /// CONTACT
-
-For vulnerability disclosures or professional inquiries: [LinkedIn](https://www.linkedin.com/in/martin-eliseo).
+[LinkedIn](https://www.linkedin.com/in/martin-eliseo) · [Writing](https://me0094.github.io)
