@@ -27,9 +27,6 @@ I work in cyber threat intelligence (CTI) at Telefónica Tech, across the full i
 
 ### /// SELECTED WORK
 
-My working repositories are private by default. I am glad to walk through them on request.
-
-*   **CTI tooling** — a local, privacy-first pipeline that enriches indicators through OpenCTI/STIX and VirusTotal.
 *   **CTI knowledge corpus** — a working corpus on the intelligence cycle, tradecraft standards and sharing formats.
 *   **CTI writing** — open-source, confidence-graded actor profiles and tradecraft analysis at **[me0094.github.io](https://me0094.github.io)**.
 
