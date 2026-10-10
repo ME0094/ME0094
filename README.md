@@ -2,7 +2,7 @@
 
 **Cyber Threat Intelligence — turning adversary tradecraft into decisions that hold up.**
 
-I work in cyber threat intelligence at Telefónica Tech, across the full intelligence
+I work in cyber threat intelligence across the full intelligence
 cycle — direction, collection, analysis, production and dissemination — with the focus on
 the last mile: adversary tradecraft turned into the judgement that drives a defensive
 decision.
